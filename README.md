@@ -5,4 +5,4 @@ ENGLISH PAGE<br/>
 
 Hi there! 👋
 
-If you want to know me more, Click and go to Notion please💫
+If you want to know me more, Click and Go to Notion please💫
