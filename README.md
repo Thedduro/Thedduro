@@ -3,3 +3,5 @@
 Hi there!👋
 
 If you want to know me more, Click and Go to Notion please💫
+
+[임선우_데이터분석_포트폴리오.pdf](https://github.com/user-attachments/files/19222737/_._.pdf)
