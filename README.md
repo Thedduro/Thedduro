@@ -1,11 +1,12 @@
-<a href="https://massive-jury-352.notion.site/Sunwoo-Lim-16fc0ddcfbe98072bfcdd0438d6ca991?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br/>
-
-Hi there!👋
-
-If you want to know me more, Click and Go to Notion please💫
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=#b897ff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+    <a href="https://massive-jury-352.notion.site/Sunwoo-Lim-16fc0ddcfbe98072bfcdd0438d6ca991?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br/>
+
+    Hi there!👋
+    
+    If you want to know me more, Click and Go to Notion please💫
+    
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
