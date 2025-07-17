@@ -25,14 +25,42 @@ If you want to know more about me,
 
 ## 🛠️ Tech Stacks
 
-**Languages & Tools**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyInstaller-222222?style=flat&logo=python&logoColor=white"/>
+#### 🧑‍💻 Languages  
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+</div>
+
+#### 📊 Data Analysis & Visualization  
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-1E88E5?style=flat&logo=python&logoColor=white"/>
+</div>
+
+#### 🤖 Web Scraping & Automation  
+<div>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white"/>
+</div>
+
+#### ⚙️ Development & Packaging  
+<div>
+  <img src="https://img.shields.io/badge/PyInstaller-222222?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+</div>
+
+#### 🧰 Etc.  
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</div>
 
 ---
 
