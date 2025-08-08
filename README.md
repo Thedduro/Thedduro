@@ -64,6 +64,11 @@ If you want to know more about me,
 
 ---
 
+## 🔊 Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedduro)
+
+---
+
 ## 💼 Project Highlights
 
 - **📉 Purchase Cost Reduction**
