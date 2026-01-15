@@ -22,40 +22,62 @@ If you want to know more about me,
 - 🎯 Interested in **automating manual workflows**, building **predictive models**, and creating **clean data pipelines**.
 
 ---
-
 ## 🛠️ Tech Stacks
-
-
 
 #### 🧑‍💻 Languages & Frameworks  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 </div>
 
+---
 
 #### 📊 Data Analysis & Visualization  
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-1E88E5?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 </div>
 
-#### 🤖 Web Scraping & Automation  
+---
+
+#### 🤖 Web Scraping
 <div>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
 </div>
 
-#### 🧠 Machine Learning & Deep Learning  
+---
+
+#### 🔄 Data Engineering & Streaming  
+<div>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apache-flink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/>
+</div>
+
+---
+
+#### 🗄️ Databases  
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+</div>
+
+---
+
+#### 🧠 Machine Learning  
 <div>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
@@ -63,6 +85,7 @@ If you want to know more about me,
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 </div>
 
+---
 
 #### ☁️ Cloud & DevOps  
 <div>
@@ -71,11 +94,13 @@ If you want to know more about me,
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </div>
 
-#### 🧰 Management & Etc.  
+---
+
+#### 🧰 Collaboration & Tools  
 <div>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>
 
