@@ -16,10 +16,10 @@ Building reliable data platforms, real-time streaming systems, and AI-powered se
   <a href="mailto:lsw2207@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://massive-jury-352.notion.site/Sunwoo-Lim-16fc0ddcfbe98072bfcdd0438d6ca991?pvs=74">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/%EC%84%A0%EC%9A%B0-%EC%9E%84-5634a5341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+</p> 
 
 </div>
 
@@ -203,11 +203,8 @@ Since then, I have expanded my expertise into **Backend Development**, **Cloud I
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thedduro&show_icons=true&hide_border=true&rank_icon=github&count_private=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thedduro&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedduro&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -221,33 +218,6 @@ Since then, I have expanded my expertise into **Backend Development**, **Cloud I
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thedduro&theme=flat&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📫 Connect with Me
-
-<p align="center">
-
-<a href="mailto:lsw2207@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://massive-jury-352.notion.site/Sunwoo-Lim-16fc0ddcfbe98072bfcdd0438d6ca991?pvs=74">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thedduro">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
