@@ -44,104 +44,6 @@ Since then, I have expanded my expertise into **Backend Development**, **Cloud I
 
 > **I believe data creates value only when it continuously flows through reliable and maintainable systems.**
 
----
-
-# 🚀 Featured Projects
-
-## 📰 One Bite Article
-
-> AI-powered IT News Learning Platform
-
-**Tech Stack**
-
-`Airflow` `AWS` `Docker` `MySQL` `MongoDB`
-
-### Highlights
-
-- Automated ETL Pipeline
-- AI Article Summarization
-- Quiz Generation
-- CloudWatch Monitoring
-- Production Deployment
-
----
-
-## 🏠 HomePick
-
-> Real-time Real Estate Analytics Platform
-
-**Tech Stack**
-
-`Kafka` `PyFlink` `Elasticsearch` `Kibana` `Django` `Vue`
-
-### Highlights
-
-- Event Streaming Architecture
-- Stateful Stream Processing
-- Real-time Search
-- Geo-based Visualization
-- Elasticsearch Index Optimization
-
----
-
-## 💳 Akkubank
-
-> Event-driven Finance Platform
-
-**Tech Stack**
-
-`Kafka` `Redis` `Spark` `LangGraph`
-
-### Highlights
-
-- MSA Architecture
-- AI Chatbot
-- RAG Agent
-- Event-driven Processing
-- Jenkins CI/CD
-
----
-
-## 🎤 Barmi
-
-> AI English Pronunciation Learning Platform
-
-**Tech Stack**
-
-`FastAPI` `RabbitMQ` `Docker` `Nginx`
-
-### Highlights
-
-- AI Gateway
-- PM Experience
-- Reverse Proxy
-- SSL Deployment
-- Infrastructure Design
-
----
-
-# 💼 Experience
-
-## Data Analyst Intern
-
-**B2B Consulting Company**
-
-**2024.07 ~ 2025.01**
-
-- Data analysis for 9 SMEs
-- Purchase cost prediction
-- GIS bidding strategy analysis
-- Automation tools development
-- Cross-functional collaboration
-- Business data consulting
-
----
-
-# 🏆 Awards
-
-- 🏆 SSAFY Best Project Award
-
----
 
 # 🛠 Tech Stack
 
@@ -188,16 +90,6 @@ Since then, I have expanded my expertise into **Backend Development**, **Cloud I
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 </p>
 
----
-
-# 📚 Currently Learning
-
-- Distributed Systems
-- Kubernetes
-- AI Agents
-- Data Platform Architecture
-
----
 
 # 📈 GitHub Stats
 
@@ -207,19 +99,6 @@ Since then, I have expanded my expertise into **Backend Development**, **Cloud I
 
 
 </div>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedduro&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-
-<div align="center">
 
 ### ⭐ Thanks for visiting!
 
