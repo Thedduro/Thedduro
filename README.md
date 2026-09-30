@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Sunwoo Lim
 
-### Data Engineer | Backend Developer | AI Engineer
+### Data Engineer
 
-Building reliable data platforms, real-time streaming systems, and AI-powered services.
+Building reliable data platforms, real-time streaming systems.
 
 <p>
   <a href="https://github.com/thedduro">
@@ -31,7 +31,7 @@ I'm a **Data Engineer** passionate about building reliable and scalable data pla
 
 My journey started with **Data Science**, followed by working as a **Data Analyst** at a B2B consulting company where I experienced how difficult it is for analytical results to become long-term business assets.
 
-Since then, I have expanded my expertise into **Backend Development**, **Cloud Infrastructure**, **Real-time Data Engineering**, and **LLM Applications**, focusing on systems that continuously deliver business value rather than one-time analyses.
+Since then, I have expanded my expertise into **Backend Development**, **Cloud Infrastructure**, **Real-time Data Engineering**, focusing on systems that continuously deliver business value rather than one-time analyses.
 
 ### Currently focusing on
 
@@ -39,8 +39,6 @@ Since then, I have expanded my expertise into **Backend Development**, **Cloud I
 - 📊 Large-scale Batch Analytics (Spark)
 - 🔄 Workflow Orchestration (Airflow)
 - ☁️ Cloud Infrastructure (AWS)
-- 🤖 AI Agents & LLM Applications
-- 🏗 Backend API Development
 
 > **I believe data creates value only when it continuously flows through reliable and maintainable systems.**
 
